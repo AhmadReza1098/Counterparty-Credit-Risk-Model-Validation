@@ -1,6 +1,6 @@
 # 🧮 credit-risk-capital-ifrs9-stress-testing
 
-Simulating wholesale credit risk capital and expected credit loss using **Python**, with Basel III Pillar‑I, CCAR‑style stress testing, IFRS‑9 ECL, and internal severe stress on a synthetic 1,000‑obligor portfolio. [file:2]
+Simulating wholesale credit risk capital and expected credit loss using **Python**, with Basel III Pillar‑I, CCAR‑style stress testing, IFRS‑9 ECL, and internal severe stress on a synthetic 1,000‑obligor portfolio.
 
 ---
 
